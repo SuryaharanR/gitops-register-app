@@ -1,10 +1,11 @@
 
-🚀 DevOps CI/CD Pipeline – Jenkins | Docker | SonarQube | Trivy | ArgoCD | AWS EKS
+**🚀 DevOps CI/CD Pipeline – Jenkins | Docker | SonarQube | Trivy | ArgoCD | AWS EKS**
+
 📖 Overview
 
 This project implements a real-world DevOps CI/CD pipeline for a Java application. It automates building, testing, scanning, and deploying to an AWS EKS Kubernetes cluster using GitOps with ArgoCD.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 CI/CD: Jenkins
 
@@ -22,8 +23,8 @@ Cloud: AWS EKS
 
 Notifications: Slack
 
-🔄 Workflow
-
+**🔄 Workflow
+**
 Developer pushes code → GitHub.
 
 Jenkins pipeline builds & tests using Maven.
