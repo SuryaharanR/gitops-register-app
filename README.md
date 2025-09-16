@@ -48,7 +48,9 @@ AWS EC2 for Jenkins, SonarQube, and bootstrap server.
 
 AWS EKS cluster created using eksctl:
 
-   ```bash eksctl create cluster --name devops-cluster --region us-east-1 --nodes 2
+   ```bash 
+     eksctl create cluster --name devops-cluster --region us-east-1 --nodes 2
+   ```bash
 
 
 2. Tools Installation
